@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sharedpref/menuPage.dart';
 import 'package:sharedpref/splash%20screen.dart';
+import 'package:http/http.dart' as http;
 
 void main() {
   runApp(const MyApp());
